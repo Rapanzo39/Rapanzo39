@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kaushalya</h1>
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="500">
-</p>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Rapanzo39/Rapanzo39/main/2.gif" width="300">
+</p> 
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Rapanzo39/Rapanzo39/main/3.gif" width="500">
+</p> -->
 
 <h3 align="center">A passionate Programmer And Full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rapanzo39&label=Profile%20views&color=0e75b6&style=flat" alt="rapanzo39" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rapanzo39&label=Profile%20views&color=0e75b6&style=flat" alt="rapanzo39" /> </p>
 
 - 🔭 I’m currently working on **Web Applications**
 
