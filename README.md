@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rapanzo39&" alt="rapanzo39" /></p>
 
 
-![Snake animation](https://github.com/Rapanzo39/Rapanzo39/blob/output/github-snake.svg)
+
